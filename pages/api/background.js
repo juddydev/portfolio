@@ -3,10 +3,10 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'University of Madrid',
+                title: 'University of Belgrade',
                 degree: 'BS, Computer System Engineering',
                 detail: "Bachelor's Degree in Computer System Engineering.",
-                year: '2013-2017'
+                year: '2012-2016'
             }
             
         ]
@@ -15,30 +15,30 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'Software Technologies',
-                role: 'Full Stack Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a Senior Full Stack Developer, Focused on BackEnd, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '01/2022 - 02/2023',
-                location: 'OptimizeFT • San Diego, California'
+                title: 'Blockchain Technologies',
+                role: 'Blockchain Developer',
+                url: '',
+                desc: 'I work there as a Block chain developer, there I learned about Block chain and developed 8 projects, also I worked on Firebase.',
+                year: '09/2022 - 02/2023',
+                location: 'Belgrade, Serbia'
             },
             {
                 id: 2,
-                title: 'Block Chain Technologies',
-                role: 'Block Chain Developer',
-                url: 'https://www.cryptokitties.co/',
-                desc: "I work there as a Block chain developer, there I learned about Block chain and developed 8 projects, also I worked on Firebase",
-                year: '07/2020 - 11/2021',
-                location: 'Boxfish Studio Aranjuez, Madrid'
+                title: 'Web2 & Web3 Technologies',
+                role: 'Frontend and Blockchain Developer',
+                url: '',
+                desc: "Skills: Front-End Development · React.js · TypeScript · GraphQL · Ethereum · Smart Contracts · Node.js · Solidity",
+                year: '04/2021 - 06/2022',
+                location: 'Belgrade, Serbia'
             },
             {
                 id: 3,
-                title: 'Web full stack Technologies, bloch chain stack Technologies',
-                role: 'Senior Full Stack Developer As a Freelancer',
-                url: 'https://sevengramscaffe.com/',
-                desc: 'Developed some Ecommerce sites using HTML/CSS, JavaScript,WordPress, Shopify and Magento.Very Clean and Neat Designing and making a LIVE Website from Figma with React.js, Rust as much as working very efficient and less timeconsuming.',
-                year: '05/2018 - 09/2020',
-                location: 'Appelink, Madrid'
+                title: 'Software Technologies',
+                role: 'Full Stack Developer',
+                url: '',
+                desc: 'As a Senior Full Stack Developer, Focused on BackEnd, I use React, Next & JavaScript to build user interfaces for web applications.',
+                year: '04/2017 - 12/2020',
+                location: 'Belgrade, Serbia'
             },
 
         ]
