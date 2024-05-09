@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import BannerLayout from '../components/Common/BannerLayout';
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
+import { FaSkype, FaGithub, FaLinkedin, FaTelegram, FaDiscord } from 'react-icons/fa'
 import { SiUpwork } from 'react-icons/si'
 import { HiMail, HiUser } from 'react-icons/hi'
 import { BsChatTextFill } from 'react-icons/bs'
@@ -20,11 +20,11 @@ const Contact = () => {
                         <div className="card_stylings w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Country:</span>
-                                <span className='text-LightGray md:text-sm'>Spain</span>
+                                <span className='text-LightGray md:text-sm'>Serbia</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>City:</span>
-                                <span className='text-LightGray md:text-sm'>Mardrid</span>
+                                <span className='text-LightGray md:text-sm'>Belgrade</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>&nbsp;</span>
@@ -42,34 +42,33 @@ const Contact = () => {
                         <div className="card_stylings rounded-xl w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Email:</span>
-                                <span className='text-LightGray text-sm'>noahsflood908@gmail.com</span>
+                                <span className='text-LightGray text-sm'>artoh1124@gmail.com</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Skype:</span>
-                                <span className='text-LightGray text-sm'>live:.cid.3a60f92e1a22249b</span>
+                                <span className='text-LightGray text-sm'>live:.cid.5d5251e720a78a7a</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Discord:</span>
-                                <span className='text-LightGray text-sm'>sweetdream0118</span>
+                                <span className='text-LightGray text-sm'>sharkhaircut</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Telegram:</span>
-                                <span className='text-LightGray text-sm'>@SweetDreamhaha</span>
+                                <span className='text-LightGray text-sm'>@maxmos_1124</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Phone:</span>
-                                <span className='text-LightGray text-sm'>+1 773 295 2131</span>
+                                <span className='text-LightGray text-sm'>+381 668072612</span>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div className="h-16 w-full card_stylings text-xl sm:text-3xl flex gap-x-8 sm:gap-x-16 items-center justify-center text-Snow">
-                    <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><HiMail /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/mymiracle0118?tab=repositories&q=&type=&language=&sort=" target='_blank' rel="noreferrer"><FaGithub /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><FaLinkedin /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><FaTwitter /></a>
-                    {/* <a className='hover:scale-125 ease-in-out duration-700 hidden sm:block' href="" target='_blank' rel="noreferrer"><Fiverr_Icon /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1' href="#" target='_blank' rel="noreferrer"><SiUpwork /></a> */}
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://join.skype.com/invite/JE4HFvxy9nOQ" target='_blank' rel="noreferrer"><FaSkype /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/Maxmos1124" target='_blank' rel="noreferrer"><FaGithub /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://www.linkedin.com/in/dusan-dimic-92a51b2b7/" target='_blank' rel="noreferrer"><FaLinkedin /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://t.me/maxmos_1124" target='_blank' rel="noreferrer"><FaTelegram /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://discord.com/users/315059194162053121" target='_blank' rel="noreferrer"><FaDiscord /></a>
                 </div>
 
 
