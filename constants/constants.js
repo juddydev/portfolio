@@ -1,17 +1,17 @@
-export const NAME = 'Julio Acin';
+export const NAME = 'Dusan Dimic';
 
-export const DESIGNATION = `Blockchain Developer and Smart Contract Auditor`;
+export const DESIGNATION = `FullStack Developer and Blockchain Developer`;
 
 export const DETAILS = {
-  Residence: 'Mardrid',
-  City: 'Boadilla del Monte',
-  Age: '30',
+  Country: 'Serbia',
+  City: 'Belgrade',
+  Age: '29',
 };
 
 export const SKILLS = [
   {
     title: 'Blockchain Developer',
-    level: '95%',
+    level: '65%',
   },
   {
     title: 'Smart Contract Auditor',
@@ -27,37 +27,28 @@ export const SKILLS = [
   },
   {
     title: 'Frontend Developer',
-    level: '60%',
+    level: '90%',
   },
   {
     title: 'App Developer',
     level: '40%',
-  },
-  // {
-  //   title: 'Technical Blogger',
-  //   level: '99%',
-  // },
+  }
 ];
 
 export const TECH_STACK = [
   'ReactJS',
-  // 'JavaScript',
   'NextJS',
   'Python',
   'Web3',
   'Solidity',
-  // 'Kotlin',
-  // 'Android',
   'Rust',
   'C++',
-  // 'JAVA',
-  // 'TypeScript',
   'NodeJS',
   // 'Redux',
   // 'Zustand',
   // 'CSS',
   // 'SCSS',
-  // 'TailwindCSS',
+  'TailwindCSS',
   // 'Ant Design',
   'Go',
   // 'Next UI',
@@ -67,17 +58,17 @@ export const TECH_STACK = [
   'Git',
   'GitHub',
   // 'Jira',
-  // 'Figma',
+  'Figma'
   // 'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'noahsflood908@gmail.com',
-  PHONE: '+1 773 295 2131',
+  EMAIL: 'artoh112@gmail.com',
+  PHONE: '+381 668072612',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/mymiracle0118?tab=repositories&q=&type=&language=&sort=',
-  LINKEDIN: '',
-  TWITTER: '',
-  FACEBOOK: '',
+  GITHUB: 'https://github.com/Maxmos1124',
+  LINKEDIN: 'https://www.linkedin.com/in/dusan-dimic-92a51b2b7/',
+  TELEGRAM: 'https://t.me/maxmos_1124',
+  SKYPE: 'https://join.skype.com/invite/JE4HFvxy9nOQ',
 };
