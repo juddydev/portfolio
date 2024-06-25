@@ -10,7 +10,7 @@ const Languages = () => {
             if (urdu < 100) {
                 setUrdu(prevCount => prevCount + 1);
             }
-            if (english < 60) {
+            if (english < 80) {
                 setEnglish(prevCount => prevCount + 1);
             }
         }, 30);

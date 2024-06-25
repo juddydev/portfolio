@@ -127,10 +127,10 @@ const portfolio = [
     },
     {
         id: 6,
-        projectName: "EASYBUDDY",
+        projectName: "HOSPITALBUDDY",
         url: "https://play.google.com/store/apps/details?id=com.easybuddysolution",
         image: "images/projects/p6.jpg",
-        projectDetail: "EASYBUDDY is an app through which you can book services at your home.",
+        projectDetail: "HOSPITALBUDDY is an app through which you can book services at your home.",
         technologiesUsed: [
             {
                 tech: "Kotlin"
