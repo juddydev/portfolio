@@ -120,9 +120,6 @@ const portfolio = [
             {
                 tech: "Solidity"
             },
-            // {
-            //     tech: "TailwindCSS"
-            // },
         ]
     },
     {
